@@ -1,5 +1,5 @@
 function Home() {
-    return <div>gustavo schmidt voltando a desenvolver 2021</div>
+    return <div>Pagina inicial de teste</div>
 }
 
 export default Home
